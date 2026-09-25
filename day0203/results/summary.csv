@@ -1,0 +1,22 @@
+Metric,Value
+Final Portfolio Value,122193.30898498769
+Annual Return,0.8599891748884164
+Annual Volatility,0.18469470328304974
+Max Drawdown,-0.044588228196261126
+Sharpe Ratio,4.656274162721707
+Sortino Ratio,8.161932848913487
+Calmar Ratio,29.617550958875864
+Total Trading Cost,0.009000000000000001
+Number of Trades,"date            2026-01-132026-01-272026-02-102026-03-052026-0...
+price                                                      2247.1
+short_ma                                              2243.216667
+long_ma                                               2240.671429
+signal                                                          1
+return                                                   0.020273
+position                                                        1
+Gross_return                                            -0.054272
+Turnover                                                      9.0
+Trading_Cost                                                0.009
+Net_return                                              -0.063272
+portfolio                                           531601.643553
+dtype: object"
